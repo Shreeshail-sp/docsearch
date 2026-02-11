@@ -1,0 +1,7 @@
+
+Machine learning is a branch of artificial intelligence that focuses on building systems that learn from data. 
+Deep learning is a subset of machine learning that uses neural networks with many layers.
+Natural language processing helps computers understand and generate human language.
+Computer vision enables machines to interpret and understand visual information from the world.
+Reinforcement learning is a type of machine learning where agents learn by interacting with an environment.
+Transfer learning allows models trained on one task to be applied to different but related tasks.

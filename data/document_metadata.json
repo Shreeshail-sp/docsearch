@@ -1,0 +1,24 @@
+{
+  "documents": {
+    "test.txt": {
+      "path": "/home/shree/projects/endee/ai_app/uploads/test.txt",
+      "chunks": 2
+    },
+    "KodNest VTU Internship.pdf": {
+      "path": "/home/shree/projects/endee/ai_app/uploads/KodNest VTU Internship.pdf",
+      "chunks": 8
+    },
+    "BigBinary JD 22.pdf": {
+      "path": "/home/shree/projects/endee/ai_app/uploads/BigBinary JD 22.pdf",
+      "chunks": 27
+    },
+    "DS_250330292_Shreeshail Shivappa Padadali.pdf": {
+      "path": "/home/shree/projects/endee/ai_app/uploads/DS_250330292_Shreeshail Shivappa Padadali.pdf",
+      "chunks": 1
+    },
+    "PEC and OEC - Final (1).pdf": {
+      "path": "/home/shree/projects/endee/ai_app/uploads/PEC and OEC - Final (1).pdf",
+      "chunks": 128
+    }
+  }
+}
