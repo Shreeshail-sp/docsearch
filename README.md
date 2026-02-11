@@ -496,7 +496,7 @@ SOFTWARE.
 
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern Python web framework
 - [Sentence Transformers](https://www.sbert.net/) - State-of-the-art text embeddings
-- [ChromaDB](https://www.trychroma.com/) - AI-native vector database
+- [Endee](https://endee.io/) - AI-native vector database
 - [Groq](https://groq.com/) - Ultra-fast LLM inference
 - [Uvicorn](https://www.uvicorn.org/) - Lightning-fast ASGI server
 
